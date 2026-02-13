@@ -24,7 +24,7 @@ public class MatrixDemo
             {
                 for(j=0;j<col;j++)
                 {
-                    System.out.println(mat[i][j]+"\t");
+                    System.out.print(mat[i][j]+"\t");
                 }
                 System.out.println();
         
